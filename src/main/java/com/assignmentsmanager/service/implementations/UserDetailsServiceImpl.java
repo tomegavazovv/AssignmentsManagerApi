@@ -1,4 +1,4 @@
-package com.assignmentsmanager.service;
+package com.assignmentsmanager.service.implementations;
 
 import com.assignmentsmanager.domain.User;
 import com.assignmentsmanager.repository.UserRepository;
